@@ -6,7 +6,7 @@
 예 : [Google](https://www.google.com/)
   
 ## 수평선
-* - - -
+*    - - -
 예시
 - - -
   
