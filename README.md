@@ -4,4 +4,4 @@
 ## GitHub
 ### GitHub 팁 
 + [저장소 이름 변경] [Rename Repository]
-+ [Rename Repository]: (https://github.com/Vedellan/TIL/blob/master/Git.md
++ [Rename Repository]: https://github.com/Vedellan/TIL/blob/master/Git.md
