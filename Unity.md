@@ -6,5 +6,6 @@
 > GameObject A;   
 > GameObject B;   
 >
-> A.transform.parent = B.transform;   
+> A.transform.parent = B.transform;
+
 로 구현한다.
